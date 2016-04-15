@@ -1,0 +1,2 @@
+var jasper = dumb
+var jasper iq = 0
